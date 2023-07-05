@@ -45,3 +45,14 @@ In this course, you'll learn the fundamentals of Redux stores, actions, reducers
 React and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components.
 
 Now that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux.
+## Front End Development Libraries Projects
+
+It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.
+
+Complete all 5 projects, and you'll earn the Front End Development Libraries certification.
+
+- Build a Random Quote Machine
+- Build a Markdown Previewer
+- Build a Drum Machine
+- Build a JavaScript Calculator
+- Build a 25 + 5 Clock
